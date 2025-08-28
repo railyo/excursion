@@ -1,6 +1,7 @@
 body {
     background-color: black;
-    font-family: Verdana, Geneva, Tahoma, sans-serif 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 }
 header {
     font-size: 50px;
@@ -28,3 +29,11 @@ h3{
 h5 {
     text-align: right;
 }
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
