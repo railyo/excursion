@@ -1,12 +1,14 @@
 body {
     background-color: black;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-
+    font-family: Verdana;
 }
+
 header {
-    font-size: 50px;
+    font-size: 35px;
     color: white;
     text-align: center;
+    font-weight: normal;
+
 }
 h4 {
     color: aquamarine;
@@ -19,6 +21,7 @@ h2 {
     font-size: 42px;
     font-weight: 300px;
     text-align: center;
+    color: white;
 }
 h3{
     font-size: 21px;
@@ -37,3 +40,6 @@ img {
     
 }
 
+a:visited{
+    color:aquamarine;
+}
